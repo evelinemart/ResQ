@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Распечатать отчет";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-4">
+
+        <div>
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation">@Html.ActionLink("Входящие вызовы", "Index", "Dispatcher", new { @class = "backFont" })</li>
+                <li role="presentation">@Html.ActionLink("История вызовов", "CallHistory", "Dispatcher", new { @class = "backFont" })</li>
+                <li role="presentation" class="active">@Html.ActionLink("Сформировать отчет", "PrintReport", "Dispatcher", new { @class = "backFont" })</li>
+                <li role="presentation">@Html.ActionLink("Добавить новость", "PostNews", "Dispatcher", new { @class = "backFont" })</li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div>
+            Распечатать отчет
+        </div>
+    </div>
+</div>

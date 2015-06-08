@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "CallHistory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-4">
+
+        <div>
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation">@Html.ActionLink("Входящие вызовы", "Index", "Dispatcher", new { @class = "backFont" })</li>
+                <li role="presentation" class="active">@Html.ActionLink("История вызов", "CallHistory", "Dispatcher", new { @class = "backFont" })</li>
+                <li role="presentation">@Html.ActionLink("Сформировать отчет", "PrintReport", "Dispatcher", new { @class = "backFont" })</li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div>
+            <p class="inputCalls text-center">История запросов</p>
+            <table class="table">
+
+                <thead>
+                    <tr class="header">
+                        <td><p>Id вызова</p></td>
+                        <td><p>Имя</p></td>
+                        <td><p>Фамилия</p></td>
+                        <td><p>X</p></td>
+                        <td><p>Y</p></td>
+                        <td><p>Время принятия</p></td>
+                        <td><p>Время обработки</p></td>
+                    </tr>
+                </thead>
+                <tbody id="tabledata">
+                    @foreach (ResQ.Models.Request x in Model)
+                    {
+                        <tr id="@x.ID">
+                            <td><p>@x.ID</p></td>
+                            <td><p>@x.User.UserName</p></td>
+                            <td><p>@x.User.UserLastName</p></td>
+                            <td><p>@x.Location.X</p></td>
+                            <td><p>@x.Location.Y</p></td>
+                            <td><p>@x.Date</p></td>
+                            <td><p>@x.DateFinished</p></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
+
+
+
+

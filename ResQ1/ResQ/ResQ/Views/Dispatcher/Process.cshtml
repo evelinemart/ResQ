@@ -1,0 +1,154 @@
+﻿@model ResQ.Models.ProcesRequest
+@{
+    ViewBag.Title = "Обработка запроса";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-4">
+        <div>
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation" class="active">@Html.ActionLink("← Назад", "Index", "Dispatcher", new { @class = "process-font" })</li>
+            </ul>
+        </div>
+        <div class="helpfield">
+            <div class="help-head">
+                Оформление запроса
+            </div>
+            <div class="help-body">
+                <div class="firestation-div">
+                    @using (Html.BeginForm("ProcessingRequest", "Dispatcher", FormMethod.Post))
+                    {
+                        <p class="process-font">
+                            ID запроса
+                        </p>
+                        @Html.TextBox("RequestID", (int)ViewBag.ID, new { @class = "form-control" })
+                        <p class="process-font">
+                            Пожарные части
+                        </p>
+                        <select name="FireStationID" class="firestation-list">
+                            <!--Информация списке пожарных частей-->
+                            @foreach (ResQ.Models.FireStation val in ViewBag.FireStations)
+                            {
+                                <option value="@val.Id">@val.FireStationName</option>
+                            }
+                        </select>
+                        <div class="mrg">
+                            <p class="process-font">
+                                Ближайшая ПЧ
+                            </p>
+                            <p class="process-font">
+                                @ViewBag.Station
+                            </p>
+                        </div>
+                        <input type="submit" name="submit" value="Подтвердить →" class="btn btn-primary button-accept" />
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-8">
+        <div id="map-canvas">
+        </div>
+        <div class="info">
+            <div id="hotPoint" data-x="@ViewBag.HotPotinX" data-y="@ViewBag.HotPointY"></div>
+            @foreach (FireStation temp in ViewBag.FireStations)
+            {
+                <div data-X="@temp.Location.X" data-Y="@temp.Location.X" data-title="@temp.FireStationName" id="@temp.FireStationName"></div>
+            }
+        </div>
+
+    </div>
+</div>
+ 
+<script>
+
+    // Инициализация
+    window.onload = function () {
+        initializeMap();
+
+    }
+
+    var map;
+    // Главный метод
+    function initializeMap() {
+        var longitude = 49.984565;
+        var latitude = 36.250420;
+        var mapCanvas = document.getElementById('map-canvas');
+        var mapOptions = {
+            center: new google.maps.LatLng(longitude, latitude),
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        map = new google.maps.Map(mapCanvas, mapOptions)
+        addFireMarker();
+        //addFireStations();
+        setFireStationMarkers();
+    }
+
+    function addFireStations() {
+        for (var i = 1; i < $(".info").children().contains; i++) {
+            var longitude = $("#ПГПЧ-" + i).data('x');
+            var latitide = $("#ПГПЧ-" + i).data('y');
+            var myLatlng = new google.maps.LatLng(longitude, latitide);
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: $("#ПГПЧ-" + i).data('title')
+            });
+        }
+    }
+
+    // Метод для добавления меток
+    function addFireMarker() {
+        var longitude = $("#hotPoint").data('x');
+        var latitude = $("#hotPoint").data('y');
+        var myLatlng = new google.maps.LatLng(longitude, latitude);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Сигнал SOS'
+        });
+        var infowindow = new google.maps.InfoWindow({
+            content: "<div><h4> Сигнал SOS</h4><div>"
+        });
+
+        google.maps.event.addListener(marker, 'click', function () {
+            infowindow.open(map, marker);
+        });
+    }
+
+    function setFireStationMarkers() {
+
+        var X = ['', 49.926055, 49.9493, 49.940587, 49.952147, 49.938832, 49.950277, 49.962861, 49.987447, 49.993044, 50.011163, 50.009446, 50.031671, 50.042675, 50.036402, 50.046253, 50.026262, 49.941781];
+        var Y = ['', 36.411827, 36.393813, 36.321313, 36.268031, 36.226621, 36.159345, 36.220064, 36.211502, 36.188969, 36.219472, 36.32436, 36.357123, 36.293987, 36.191068, 36.202369, 36.22039, 36.398919];
+        var title = "ПГПЧ - ";
+        for (var i = 1; i < X.length; i++) {
+            var myLatlng = new google.maps.LatLng(X[i], Y[i]);
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: title + i
+            });
+            marker.setIcon('http://maps.google.com/mapfiles/ms/icons/blue-dot.png');
+
+            var infowindow = new google.maps.InfoWindow({
+                content: "<div><h4>" + title + i + "</h4><div>"
+            });
+
+            google.maps.event.addListener(marker, 'click', function () {
+                infowindow.open(map, marker);
+            });
+        }
+    }
+
+
+
+</script>
+
+@section scripts{
+    <script src="~/Scripts/DispatcherScript.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+}
+

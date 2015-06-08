@@ -1,0 +1,111 @@
+﻿@{
+    ViewBag.Title = "ResQ";
+}
+
+<div class="container">
+    <div class="col-md-12">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="~/Resources/start.png" />
+                    <div class="carousel-caption">
+                        <h3>Угроза жизни?</h3>
+                        <p>Не паникуй</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Resources/finish.png" />
+                    <div class="carousel-caption">
+                        <h3>Прсото нажми на кнопку</h3>
+                        <p>Спасатели спасут тебя</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Controls  carousel-control carousel-slide-->
+            <a class="left car" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right car" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="container">
+        <div class="col-md-6 icon-interval">
+            <div class="icon-center">
+                <p>
+                    <img src="~/Resources/family.png" />
+                    Ваша жизнь в безопасности
+                </p>
+            </div>
+        </div>
+        <div class="col-md-6 icon-interval">
+            <div class="icon-center">
+                <p>
+                    <img src="~/Resources/first.png" />
+                    Лучшая веб служба 2014 года
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-6 icon-interval">
+            <div class="icon-center">
+                <p>
+                    <img src="~/Resources/maths.png" />
+                    Быстро развивающияся служба
+                </p>
+            </div>
+        </div>
+        <div class="col-md-6 icon-interval">
+            <div class="icon-center">
+                <p>
+                    <img src="~/Resources/images.png" />
+                    Одно нажатие спасет жизнь
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="information-strip icon-interval">
+    <div style="height:30px;">
+    </div>
+    <div class="container">
+        <div class="col-md-4 start">
+            <p>
+                С чего начать?
+            </p>
+        </div>
+        <a href="@Url.Action("Register", "Account")">
+            <div class="col-md-2 img-circle cyrcles gideForApp">
+                Регистрируйся
+            </div>
+        </a>
+        <a href="@Url.Action("GetFile", "Home")">
+            <div class="col-md-3 img-circle cyrcles gideForApp">
+                Скачивай
+            </div>
+        </a>
+        <a href="@Url.Action("Using", "Home")">
+            <div class="col-md-3 img-circle cyrcles gideForApp">
+                Пользуйся
+            </div>
+        </a>
+    </div>
+    <div style="height:30px;">
+    </div>
+</div>

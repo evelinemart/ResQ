@@ -1,0 +1,122 @@
+﻿@using ResQ.Models;
+@model ProcesRequest
+@{
+    ViewBag.Title = "Process";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .marg {
+        position: relative;
+        margin-top: 50px;
+    }
+
+    #map-canvas {
+        height: 500px;
+        width: 100%;
+    }
+</style>
+<div class="container marg">
+    <div class="col-md-4">
+        <div>
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation" class="active"><a href="#">Входящие вызовы</a></li>
+                <li role="presentation"><a href="#">История вызовов</a></li>
+                <li role="presentation"><a href="#">Сформировать отчет</a></li>
+            </ul>
+        </div>
+        <div>
+
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div>
+            <div id="location"></div>
+            <h2 class="inputCalls text-center"> Обработка вызова. Выберите пожарную часть</h2>
+            <div id="map-canvas">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<script>
+
+
+    window.onload = getPoints;//initialize;
+    // Проверка API Geolocation
+
+    function getPoints() {
+
+        Array listOfItem = @ViewBag.ItemsList;
+
+        for(var i = 0; i<3; i++){
+            alert(listOfItem[i]);
+
+        }
+
+        //var myLatlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+        //var marker = new google.maps.Marker({
+        //    position: myLatlng,
+        //    map: map,
+        //    title: 'Hello World!'
+        //});
+
+
+    }
+    function canLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(okkk);
+        }
+        else {
+            alert("Упс. Не поддерживается HTML5");
+        }
+    }
+
+    //Получение координат
+    function displayLocation(position) {
+        var width = position.coords.latitude;
+        var height = position.coords.longitude;
+
+        var place = document.getElementById("location")
+        place.innerHTML = "Твои координаты. X: " + height + " Y: " + width;
+    }
+
+    var map;
+    function initialize() {
+        var longitude = 50.0439304;
+        var latitude = 36.2080766;
+        var mapCanvas = document.getElementById('map-canvas');
+        var mapOptions = {
+            center: new google.maps.LatLng(longitude, latitude),
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        map = new google.maps.Map(mapCanvas, mapOptions)
+        canLocation();
+        navigator.geolocation.getCurrentPosition(okkk);  //new google.maps.LatLng(50.0439304, 36.2080766);
+
+    }
+
+    function okkk(position) {
+
+        var myLatlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Hello World!'
+        });
+    }
+
+
+</script>
+
+@section scripts{
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+}

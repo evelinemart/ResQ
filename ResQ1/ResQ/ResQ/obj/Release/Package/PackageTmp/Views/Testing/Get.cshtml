@@ -1,0 +1,110 @@
+﻿@using ResQ.Models;
+@model ResQ.Models.ProcesRequest
+@{
+    ViewBag.Title = "Get";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var options = new AjaxOptions()
+    {
+        UpdateTargetId = "container",
+        Url = Url.Action("TryAjax")
+    };
+
+
+}
+
+<style>
+    .marg {
+        position: relative;
+        margin-top: 50px;
+    }
+
+    #map-canvas {
+        width: 100%;
+        height: 400px;
+        background-color: #CCC;
+    }
+
+    #legend {
+        background: white;
+        padding: 10px;
+    }
+
+    .item:hover {
+        background: #0094ff;
+        cursor: pointer;
+    }
+</style>
+
+<div class="container marg">
+    <div class="col-md-4">
+        <div>
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation" class="active"><a href="#">Входящие вызовы</a></li>
+                <li role="presentation"><a href="#">История вызовов</a></li>
+                <li role="presentation"><a href="#">Сформировать отчет</a></li>
+            </ul>
+        </div>
+        <div>
+
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div>
+            <h2 class="text-center">Входящие сигналы бедствия</h2>
+
+            @Ajax.ActionLink("Testing", "TryAjax", new { @id = "Refreshing" }, options)
+
+         
+                <div id="container">
+                    @Html.Action("TryAjax")
+                </div>
+            <table class="table">
+                <thead>
+                    <tr class="header">
+                        <td><p>Id вызова</p></td>
+                        <td><p>Имя</p></td>
+                        <td><p>Фамилия</p></td>
+                        <td><p>X</p></td>
+                        <td><p>Y</p></td>
+                        <td><p>Дата</p></td>
+                    </tr>
+                </thead>
+                <tbody id="tabledata">
+                    @Html.Action("GetPartial")
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    window.onload = function () {
+        Refresh();
+    };
+
+    function Refresh() {
+        $("#Refreshing").click();
+        setTimeout("Refresh()", 5000);
+    };
+
+    $(".item").click(function () {
+        var x = $(this).attr("id");
+        window.location.href = "http://localhost:55609/Testing/Process/" + x;
+    });
+
+
+
+
+    //document.getElementById('myElement').onchange = function () {
+    //    document.getElementById('firestation').value = $("#myElement").val();
+    //}
+
+
+</script>
+
+
+
+@section scripts{
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}

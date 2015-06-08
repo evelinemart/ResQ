@@ -1,0 +1,9 @@
+﻿@model ResQ.Models.AccountKeeper
+
+@using (Html.BeginForm("ChangeLastName", "User", FormMethod.Post))
+{
+    @Html.TextBoxFor(m => m.NewValue, new { @placeholder = "Новая фамилия", @class = "form-control" })
+
+    <input type="submit" value="Сохранить изменения" class="btn btn-default small-pad" />
+}
+

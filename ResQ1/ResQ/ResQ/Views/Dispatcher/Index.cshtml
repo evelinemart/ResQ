@@ -1,0 +1,75 @@
+﻿@model IEnumerable<ResQ.Models.Request>
+@{
+    ViewBag.Title = "Диспетчерская";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var options = new AjaxOptions()
+    {
+        UpdateTargetId = "tabledata",
+        Url = Url.Action("GetNewRequests"),
+        OnSuccess = "DataAccepted"
+    };
+}
+
+<div class="container">
+    <div class="col-md-4">
+        <ul class="nav nav-pills nav-stacked">
+            <li role="presentation" class="active">@Html.ActionLink("Входящие вызовы", "Index", "Dispatcher", new { @class = "backFont" })</li>
+            <li role="presentation">@Html.ActionLink("История вызовов", "CallHistory", "Dispatcher", new { @class = "backFont" })</li>
+            <li role="presentation">@Html.ActionLink("Сформировать отчет", "PrintReport", "Dispatcher", new { @class = "backFont" })</li>
+            <li role="presentation">@Html.ActionLink("Добавить новость", "PostNews", "Dispatcher", new { @class = "backFont" })</li>
+
+        </ul>
+    </div>
+    <div class="col-md-8">
+        <div>
+            <div>
+                <p class="inputCalls text-center">Cигналы бедствия</p>
+                <table class="table">
+                    <thead>
+                        <tr class="header">
+                            <td><p>Id вызова</p></td>
+                            <td><p>Имя</p></td>
+                            <td><p>Фамилия</p></td>
+                            <td><p>X</p></td>
+                            <td><p>Y</p></td>
+                            <td><p>Дата</p></td>
+                        </tr>
+                    </thead>
+                    <tbody id="tabledata">
+                        @Html.Action("GetNewRequests")
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@using (Ajax.BeginForm(options))
+{
+    <input type="submit" style="visibility:hidden" id="ajaxLink" />
+}
+<script>
+    function DataAccepted() {
+        $(".itemOfRequest").click(function () {
+            var x = $(this).attr("id");
+            window.location.href = "http://localhost:55609/Dispatcher/Process/" + x;
+        });
+    }
+
+    window.onload = starting;
+
+    $(".itemOfRequest").click(function () {
+        var x = $(this).attr("id");
+        window.location.href = "http://localhost:55609/Dispatcher/Process/" + x;
+    });
+
+    function starting() {
+        setInterval(function () { $("#ajaxLink").click(); }, 5000);
+    }
+</script>
+
+
+@section scripts{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}

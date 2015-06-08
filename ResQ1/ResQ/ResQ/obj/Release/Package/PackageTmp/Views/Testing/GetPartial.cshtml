@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ResQ.Models.Request>
+
+
+
+@foreach (ResQ.Models.Request x in Model)
+{
+    <tr class="itemOfRequest" id="@x.ID">
+        <td><p>@x.ID</p></td>
+        <td><p>@x.User.UserName</p></td>
+        <td><p>@x.User.UserLastName</p></td>
+        <td><p>@x.Location.X</p></td>
+        <td><p>@x.Location.Y</p></td>
+        <td><p>@x.Date</p></td>
+    </tr>
+}

@@ -1,0 +1,110 @@
+﻿@model ResQ.Models.ProcesRequest
+@{
+    ViewBag.Title = "Process";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-4">
+        <div>
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation" class="active">@Html.ActionLink("← Назад", "Index", "Dispatcher", new { @class = "process-font" })</li>
+            </ul>
+        </div>
+        <div class="helpfield">
+            <div class="help-head">
+                Оформление запроса
+            </div>
+            <div class="help-body">
+                <div class="firestation-div">
+                    @using (Html.BeginForm("Procces", "Dispatcher", FormMethod.Post))
+                    {
+                        <p class="process-font">
+                            ID запроса
+                        </p>
+                        @Html.TextBox("RequestID", (int)ViewBag.ID, new { @class = "form-control" })
+                        <p class="process-font">
+                            Пожарные части
+                        </p>
+                        <select name="FireStationName" class="firestation-list">
+                            <!--Информация списке пожарных частей-->
+                            @foreach (ResQ.Models.FireStation val in ViewBag.FireStations)
+                            {
+                                <option value="@val.Id">@val.FireStationName</option>
+                            }
+                        </select>
+                        <div class="mrg">
+                            <p class="process-font">
+                                Ближайшая ПЧ
+                            </p>
+                            <p class="process-font">
+                                @ViewBag.Station
+                            </p>
+                        </div>
+                        <input type="submit" name="submit" value="Подтвердить →" class="btn btn-primary button-accept" />
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-8">
+        <div id="map-canvas">
+        </div>
+        <div class="info">
+            <div id="hotPoint" data-x="@ViewBag.HotPotinX" data-y="@ViewBag.HotPointY"></div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    // Инициализация
+    window.onload = function () {
+        initializeMap();
+    }
+
+    var map;
+    // Главный метод
+    function initializeMap() {
+        var longitude = 49.984565;
+        var latitude = 36.250420;
+        var mapCanvas = document.getElementById('map-canvas');
+        var mapOptions = {
+            center: new google.maps.LatLng(longitude, latitude),
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        map = new google.maps.Map(mapCanvas, mapOptions)
+        //navigator.geolocation.getCurrentPosition(addMarker);
+        addFireMarker();
+    }
+
+    // Метод для добавления меток
+    function addFireMarker() {
+        var longitude = $("#hotPoint").data('x');
+        var latitude = $("#hotPoint").data('y');
+        var myLatlng = new google.maps.LatLng(longitude, latitude);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Сигнал SOS'
+        });
+    }
+
+    function addMarker(position) {
+        var myLatlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Сигнал SOS'
+        });
+
+    }
+
+</script>
+@section scripts{
+    <script src="~/Scripts/DispatcherScript.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+}
+

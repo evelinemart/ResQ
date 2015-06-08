@@ -1,0 +1,382 @@
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\ResQ.dll.config
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\ResQ.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\ResQ.pdb
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Antlr3.Runtime.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\DocX.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\EntityFramework.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\itextsharp.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Newtonsoft.Json.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Owin.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Helpers.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Http.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Mvc.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Optimization.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Razor.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.WebPages.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\WebGrease.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\itextsharp.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Helpers.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Mvc.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Optimization.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Razor.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.WebPages.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Newtonsoft.Json.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Http.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\EntityFramework.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.csproj.GenerateResource.Cache
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.pdb
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\PagedList.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\PagedList.Mvc.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\PagedList.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\PagedList.Mvc.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\ResQ.dll.config
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\ResQ.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\ResQ.pdb
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Antlr3.Runtime.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\DocumentFormat.OpenXml.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\DocX.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\EntityFramework.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\itextsharp.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Newtonsoft.Json.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Owin.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\PagedList.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\PagedList.Mvc.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Net.Http.Formatting.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Helpers.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Http.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Http.WebHost.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Mvc.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Optimization.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Razor.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.WebPages.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\WebGrease.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\itextsharp.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\PagedList.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\PagedList.Mvc.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Helpers.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Mvc.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Optimization.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Razor.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.WebPages.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Antlr3.Runtime.pdb
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Newtonsoft.Json.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Net.Http.Formatting.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Http.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\System.Web.Http.WebHost.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\EntityFramework.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.csproj.GenerateResource.Cache
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.dll
+C:\Users\Костя\Desktop\ResQ — копия — копия\ResQ\obj\Debug\ResQ.pdb
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+C:\Users\Костя\Desktop\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+C:\Users\Костя\Desktop\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\ResQ.dll.config
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\ResQ.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\ResQ.pdb
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Antlr3.Runtime.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\DocX.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\itextsharp.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Newtonsoft.Json.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Owin.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.Mvc.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Helpers.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Mvc.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Optimization.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Razor.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\WebGrease.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\itextsharp.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Newtonsoft.Json.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.Mvc.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Helpers.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Mvc.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Optimization.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Razor.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.csproj.GenerateResource.Cache
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.dll
+C:\Users\Костя\Desktop\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.pdb
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\ResQ.dll.config
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\ResQ.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\ResQ.pdb
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Antlr3.Runtime.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\DocX.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\itextsharp.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Newtonsoft.Json.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Owin.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.Mvc.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Helpers.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Mvc.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Optimization.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Razor.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\WebGrease.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\itextsharp.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Newtonsoft.Json.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\PagedList.Mvc.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Helpers.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Mvc.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Optimization.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Razor.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.csproj.GenerateResource.Cache
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.dll
+C:\Users\Костя\Google Диск\2 Курс\2 курс 1 семестр\ППзПИ\ППзПИ ПИ-13-4 Федун, Выродов, Остпенко, Хомитский\ResQ\ResQ\obj\Debug\ResQ.pdb
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\ResQ.dll.config
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\ResQ.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\ResQ.pdb
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\DocX.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\EntityFramework.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\itextsharp.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Owin.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\PagedList.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\PagedList.Mvc.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Helpers.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Http.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Mvc.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Optimization.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Razor.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.WebPages.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\WebGrease.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\itextsharp.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\PagedList.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\PagedList.Mvc.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Http.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Helpers.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Mvc.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Optimization.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Razor.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.WebPages.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\EntityFramework.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.csprojResolveAssemblyReference.cache
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.csproj.GenerateResource.Cache
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.dll
+D:\Evelinem\Downloads\ResQ\ResQ\ResQ\obj\Debug\ResQ.pdb

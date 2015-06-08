@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Мои настройки";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-4">
+
+        <ul class="nav nav-pills nav-stacked">
+            <li role="presentation">@Html.ActionLink("Статистика сервиса", "Index", "User")</li>
+            <li role="presentation">@Html.ActionLink("Мои вызовы", "MyCalls", "User")</li>
+            <li role="presentation" class="active">@Html.ActionLink("Мои настройки", "MySettings", "User")</li>
+        </ul>
+
+    </div>
+    <div class="col-md-8">
+        <div class="settings-div">
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-primary">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Изменить имя
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            @Html.Action("ChangeName")
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Изменить фамилию
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            @Html.Action("ChangeLastName")
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-heading" role="tab" id="headingThree">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Изменить пароль
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <div class="panel-body">
+                            @Html.ActionLink("Перейти на форму изменения пароля", "ChangePassword", "Manage")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="user-advertising">
+            <a href="http://nure.ua" title="Начать рости">
+                <img src="~/Resources/bann-rus.png" />
+            </a>
+        </div>
+    </div>
+
+</div>
+
